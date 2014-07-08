@@ -1,0 +1,7 @@
+{
+  "name": "mihailoff/installer-test",
+  "type": "moodle-block",
+  "require": {
+     "composer/installers": "~1.0"
+  }
+}
